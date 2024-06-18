@@ -1,0 +1,374 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"worrd",
+				"Word Wrap: Toggle"
+			],
+			[
+				"pcli",
+				"Package Control: List Packages"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"wo",
+				"Word Wrap: Toggle"
+			],
+			[
+				"set table syntax",
+				"Table Editor: Set table syntax 'MultiMarkdown' for current view"
+			],
+			[
+				"set table syn",
+				"Table Editor: Set table syntax 'MultiMarkdown' for current view"
+			],
+			[
+				"table",
+				"Table Editor: Set table syntax 'Simple' for current view"
+			],
+			[
+				"table editor",
+				"Table Editor: Enable for current syntax"
+			],
+			[
+				"pcip",
+				"Package Control: Install Package"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
+				"toggle menu",
+				"View: Toggle Menu"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Format JSON"
+			],
+			[
+				"past",
+				"Text Pastry: Menu"
+			],
+			[
+				"mark pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"livere",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"format",
+				"Pretty JSON: Format JSON"
+			],
+			[
+				"pclp",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/kiros33/Projects/kiros33/macos-settings"
+	],
+	"file_history":
+	[
+		"/Users/kiros33/Library/CloudStorage/Dropbox/screenshots/brew.list.txt",
+		"/Users/kiros33/Projects/zionex.com/project-scc-doc-2023/text/sskv_001.md",
+		"/Users/kiros33/.ssh/known_hosts",
+		"/Users/kiros33/Projects/zionex.com/project-scc-doc-2023/text/sskv_003.md",
+		"/Users/kiros33/Projects/zionex.com/project-scc-doc-2023/dbms/procedure/SP_MP_STOCK_NET_MRM_EACH.sql",
+		"/Users/kiros33/Projects/zionex.com/project-scc-doc-2023/dbeaver/Scripts/2.ANALYSIS/Script_204B.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbeaver/Scripts/2.ANALYSIS/Script_204.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbms/procedure/SP_MP_STOCK_NET_KITTING.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbms/procedure/SP_MP_STOCK_NET_MRM.20230925.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbeaver/Scripts/2.ANALYSIS/Script_202A.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbms/procedure/SP_MP_STOCK_NET_KITTING.20230925.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbms/procedure/SP_MP_STOCK_NET_PAIR.20230925.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbms/procedure/SP_IF_MT_SPEC_LINK.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbms/procedure/SP_IF_MT_DEMAND.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbms/procedure/PROC_DS_SG_OUT_SCHEDULE.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbeaver/Scripts/2.ANALYSIS/Script_209.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbeaver/Scripts/2.ANALYSIS/Script_208.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbms/procedure/SP_MP_STOCK_NET_SO.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbeaver/Scripts/2.ANALYSIS/Script_206.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbms/procedure/SP_MP_STOCK_NET_MRM.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/text/sskv_001.md",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbms/procedure/SP_MP_STOCK_NET_PAIR.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbeaver/Scripts/6.META/Script_602.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbeaver/Scripts/2.ANALYSIS/Script_207.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbeaver/Scripts/2.ANALYSIS/Script_205.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/ssms/SQLQuery6.sql",
+		"/C/Users/307999/Documents/SQL Server Management Studio/SSKV/SSKV-DEV/SSKV-DEV.ssmssqlproj",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbeaver/Scripts/0.DBMS/Script_010.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbeaver/Scripts/0.DBMS/Script_002.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbms/procedure/SP_U_MU_002_S1.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/text/sublime_002.md",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbms/view/VW_ITEM_01.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbms/view/VW_PROD_VER_01.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbms/procedure/SQLQuery4.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbms/procedure/SQLQuery6.sql",
+		"/C/Program Files (x86)/Microsoft SQL Server Management Studio 19/Common7/IDE/SqlWorkbenchProjectItems/Sql/SQLFile.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbms/procedure/SQLQuery2.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbms/procedure/SQLQuery3.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbms/function/FN_GET_HASH.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbms/function/FN_GET_SPEC_STR.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbms/function/FN_GET_SPEC_HASH.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbms/function/FN_IS_VALID_SPEC_1.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbms/view/VW_COMN_CODE.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbms/procedure/SQLQuery17.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbms/procedure/SQLQuery1.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbms/procedure/PROC_DS_SG_META_SO_PEG.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbms/procedure/SP_BULK_RFC_PROD_VER.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbms/procedure/SP_CM_DEMAND_BOM.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbms/procedure/SP_CM_DEMAND_BOM_TEST.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbms/procedure/SP_PK_MD_012.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbms/procedure/SP_COMMON_001.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbms/procedure/SP_COMMON_002.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/text/dbeaver_002.md",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbms/procedure/SP_MP_STOCK_NET_EP.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbms/procedure/SP_PK_MD_IN_BATCH.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbms/procedure/SP_MP_STOCK_NET_FA.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbms/procedure/SP_MP_STOCK_NET_PK.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbms/procedure/SP_U_MU_002_Q1.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbms/procedure/SP_TEMPLATE_BSY.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbms/procedure/SP_MP_STOCK_NET_MD.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbeaver/Scripts/0.DBMS/Script_005.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/text/chocolatey_001.md",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbeaver/Scripts/1.COMMON/Script_101.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbeaver/Scripts/6.META/Script_603_1.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbeaver/Scripts/0.DBMS/Script_009.sql",
+		"/C/Users/307999/Downloads/20230814091456.log",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbeaver/Scripts/6.META/Script_606.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbeaver/Scripts/6.META/Script_630.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbeaver/Scripts/6.META/Script_605_1.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbeaver/Scripts/6.META/Script_605.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbeaver/Scripts/6.META/Script_604.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbeaver/Scripts/6.META/Script_603.sql",
+		"/C/Users/307999/Downloads/sapjco3-ntamd64-3.1.7/examples/ABAP_MS.jcoDestination",
+		"/F/내 드라이브/License/supplynet/개인용맥북/[T3SupplyNet]license/license.txt",
+		"/C/Projects/zionex.com/project-scc-doc-2023/dbeaver/Scripts/2.ANALYSIS/Script_203.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/text/led_001.md",
+		"/C/Projects/zionex.com/t3series-ssck/.gitignore",
+		"/C/Projects/zionex.com/project-scc-doc-2023/text/sapjco_001.md",
+		"/C/Users/307999/AppData/Roaming/npm-cache/_logs/2023-07-24T04_47_13_713Z-debug.log",
+		"/G/물동프로세스 파트너사(물동프로세스 파트너사)/물동프로세스 최적화 프로젝트/05.구현/04.Jco IF예제/JcoClient/JcoClientCallback.java",
+		"/G/물동프로세스 파트너사(물동프로세스 파트너사)/물동프로세스 최적화 프로젝트/05.구현/04.Jco IF예제/JcoClient/JcoClient.java",
+		"/G/물동프로세스 파트너사(물동프로세스 파트너사)/물동프로세스 최적화 프로젝트/05.구현/04.Jco IF예제/JcoClient/JcoClientUtils.java",
+		"/G/물동프로세스 파트너사(물동프로세스 파트너사)/물동프로세스 최적화 프로젝트/05.구현/04.Jco IF예제/JcoClient/JcoClientTemplate.java",
+		"/G/물동프로세스 파트너사(물동프로세스 파트너사)/물동프로세스 최적화 프로젝트/05.구현/04.Jco IF예제/JcoClient/JcoClientFactory.java",
+		"/C/Projects/zionex.com/t3series-ssck/t3series-wingui/dev_jco_rfc.log",
+		"/C/Projects/zionex.com/t3series-ssck/hs_err_pid2748.log",
+		"/C/Users/307999/Downloads/sapjco3-ntamd64-3.1.7/examples/com/sap/conn/jco/examples/client/beginner/CallUsingTable.java",
+		"/C/Users/307999/Downloads/sapjco3-ntamd64-3.1.7/examples/com/sap/conn/jco/examples/client/beginner/Connect.java",
+		"/C/Users/307999/Downloads/sapjco3-ntamd64-3.1.7/examples/com/sap/conn/jco/examples/client/beginner/CustomDestinationDataProvider.java",
+		"/C/Users/307999/Downloads/sapjco3-ntamd64-3.1.7/examples/com/sap/conn/jco/examples/client/beginner/DestinationConcept.java",
+		"/C/Users/307999/Downloads/sapjco3-ntamd64-3.1.7/examples/com/sap/conn/jco/examples/client/beginner/SimpleCall.java",
+		"/C/Users/307999/Downloads/sapjco3-ntamd64-3.1.7/examples/com/sap/conn/jco/examples/client/beginner/StatefulCalls.java",
+		"/C/Users/307999/Downloads/sapjco3-ntamd64-3.1.7/examples/com/sap/conn/jco/examples/client/beginner/CallUsingStructure.java",
+		"/C/Projects/zionex.com/project-scc-doc-2023/text/sskv_003.md",
+		"/C/Projects/zionex.com/project-scc-doc-2023/text/java_001.md",
+		"/F/내 드라이브/Sites/YK/Project-2021/1. DSAR/99.CST/TO_CST/ETC/05.콤보시뮬레이션/SP_UI_DSAR_CODE_Q1.sql",
+		"/F/내 드라이브/Sites/YK/Project-2021/1. DSAR/1. CDMS확장테이블/PROCEDURE BACKUP/E2E_ASP/E2E_ASP SP/dbo.SP_UI_SRP_COMM_CODE.StoredProcedure.sql",
+		"/F/내 드라이브/Sites/YK/Project-2021/1. DSAR/1. CDMS확장테이블/PROCEDURE BACKUP/E2E_ASP/E2E_ASP SP/dbo.SP_UI_CM_CODE.StoredProcedure.sql",
+		"/F/내 드라이브/Sites/LS ELECTRIC/Project-2022/999.기타/LS Electric/02.설계/02.procedure/SP_COMMONCODE_LIST.SQL",
+		"/C/Users/307999/AppData/Local/Packages/Microsoft.WindowsTerminal_8wekyb3d8bbwe/LocalState/settings.json",
+		"/C/Projects/zionex.com/project-scc-doc-2023/text/windows_terminal_001.md",
+		"/C/Projects/zionex.com/t3series-ssck/t3series-wingui/src/main/resources/profile/develop/static/license/realgridjs-lic.js",
+		"/C/Projects/zionex.com/t3series-ssck/t3series-wingui/src/main/resources/profile/local/static/license/realgrid-lic.js",
+		"/C/Projects/zionex.com/t3series-ssck/t3series-wingui/src/main/resources/profile/local/static/license/realgridpivot-lic.js",
+		"/C/Projects/zionex.com/t3series-ssck/t3series-wingui/src/main/resources/profile/develop/static/license/realgrid-lic.js",
+		"/C/Projects/zionex.com/t3series-ssck/t3series-wingui/src/main/resources/profile/develop/static/license/realgridpivot-lic.js",
+		"/C/Users/307999/Downloads/realgridjs-lic.js",
+		"/C/Projects/zionex.com/project-scc-doc-2023/text/powershell_001.md",
+		"/C/Users/307999/OneDrive/문서/WindowsPowerShell/Microsoft.PowerShell_profile.ps1",
+		"/F/내 드라이브/Sites/LS ELECTRIC/20220705-배전반 APS 구축/03.개발/02.Procedure-Interface/META_GLB/PROC_DS_SG_OUT_BATCH.sql",
+		"/C/Projects/zionex.com/project-scc-doc-2023/text/Powershell_004.md",
+		"/C/Projects/zionex.com/project-scc-doc-2023/text/python_001.md",
+		"/C/Projects/zionex.com/project-scc-doc-2023/text/curl_001.md",
+		"/C/Users/307999/Downloads/drm_test (1).txt",
+		"/C/Users/307999/Downloads/drm_test.txt",
+		"/C/Users/307999/Downloads/일일업무_배상용.xlsx",
+		"/C/Projects/zionex.com/t3series-ssck/t3series-wingui/src/main/resources/profile/develop/application.yaml",
+		"/C/Projects/zionex.com/t3series-ssck/t3series-wingui/packages/package-lock.json",
+		"/C/Projects/zionex.com/t3series-ssck/t3series-wingui/packages/package.json",
+		"/C/Projects/zionex.com/t3series-ssck/t3series-wingui/packages/wingui/package.json",
+		"/C/Projects/zionex.com/t3series-ssck/t3series-wingui/src/main/resources/profile/local/application.yaml",
+		"/C/Projects/zionex.com/t3series-ssck/t3series-wingui/src/main/resources/profile/local/static/license/license.xml",
+		"/C/Users/307999/Downloads/t3series/WEB-INF/classes/application.yaml",
+		"/C/Users/307999/Downloads/MESSolution.Timer.service.xml",
+		"/F/내 드라이브/Sites/LS ELECTRIC/20220705-배전반 APS 구축/03.개발/02.Procedure-Interface/META_GLB/PROC_DS_SG_META_SO_PEG.sql",
+		"/C/Zionex/T3SupplyNet9.8/configs/configuration_supplynet.xml",
+		"/C/Projects/zionex.com/project-scc-doc-2023/text/supplynet_001.md",
+		"/C/Projects/zionex.com/project-scc-doc-2023/text/supplynet_002.md"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 45.3333333333
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "macos-settings.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"script_606",
+				"project-scc-doc-2023\\dbeaver\\Scripts\\6.META\\Script_606.sql"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 501.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 313.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
