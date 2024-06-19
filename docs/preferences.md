@@ -1,11 +1,6 @@
-# macOS
+# Preferences
 
-## macOS Sonoma
+### Name
+* General > About 의 Name 변경 `kiros33's MacBook Pro 16`
 
-### USB 준비
-* Format USB, MACOS
-* [How to Clean Install macOS Sonoma](https://www.cleverfiles.com/howto/clean-install-macos-sonoma.html)
-```
-sudo /Applications/Install\ macOS\ Sonoma.app/Contents/Resources/createinstallmedia --volume /Volumes/MACOS
-``` 
-
+### 한/영 변환

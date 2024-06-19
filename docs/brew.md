@@ -1,11 +1,10 @@
-# macOS
+# Homebrew
 
-## macOS Sonoma
+### Reference
+* [Home](https://brew.sh/ko/)
 
-### USB 준비
-* Format USB, MACOS
-* [How to Clean Install macOS Sonoma](https://www.cleverfiles.com/howto/clean-install-macos-sonoma.html)
+### Install
 ```
-sudo /Applications/Install\ macOS\ Sonoma.app/Contents/Resources/createinstallmedia --volume /Volumes/MACOS
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ``` 
 
